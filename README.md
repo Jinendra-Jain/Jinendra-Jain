@@ -8,7 +8,6 @@ Small projects
 - 📫 How to reach me ... 
 E-Mail: G-Mail : jainjinendra225@gmail.com
 LinkedIn : https://www.linkedin.com/in/jinendra-jain-a49149176/
-Facebook : https://www.facebook.com/profile.php?id=100030471471654
 <!---
 Jinendra-Jain/Jinendra-Jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
