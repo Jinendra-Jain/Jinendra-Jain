@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Jinendra-Jain
 - 👀 I’m interested in ...
-Android Develpoment using Java
-- 🌱 I’m currently learning ...
-B.Tech in Computer Science and Engineering from Indian Institute of Information Technology, Surat
+- Mobile based applications using basic languages such as C++, Java
+
+- 🌱 I’m want to learn ...
+DSA
 - 💞️ I’m looking to collaborate on ...
 Small projects
+
+
 - 📫 How to reach me ... 
 E-Mail: G-Mail : jainjinendra225@gmail.com
 LinkedIn : https://www.linkedin.com/in/jinendra-jain-a49149176/
