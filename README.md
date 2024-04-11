@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jinendra-Jain
 - 👀 I’m interested in ...
-- Mobile based applications using basic languages such as C++, Java
+- Front End Web Development
 
 - 🌱 I’m want to learn ...
 DSA
