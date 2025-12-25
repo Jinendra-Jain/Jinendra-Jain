@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jinendra-Jain
 - 👀 I’m interested in ...
-- Android app development
+- Web app development
 
 
 - 📫 How to reach me ... 
